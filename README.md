@@ -1,9 +1,8 @@
 # Basic Websocket Client & Server
 
-## Reference:
-[How to create a websocket client in python](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k "YouTube")
-
-[How to create a websocket server in python](https://www.youtube.com/watch?v=SfQd1FdcTlI&list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k&index=21 "YouTube")
+## Requirements
+- python > 3.7
+- [websockets library](https://websockets.readthedocs.io/en/stable/intro/index.html "https://websockets.readthedocs.io/en/stable/intro/index.html")
 
 ## Getting Started
 1. clone repo
@@ -13,4 +12,11 @@
 3. open two terminals
     - terminal 1: ```python3 server.py```
     - terminal 2: ```python3 client.py```
+
+## References
+[How to create a websocket client in python](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k "YouTube")
+
+[How to create a websocket server in python](https://www.youtube.com/watch?v=SfQd1FdcTlI&list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k&index=21 "YouTube")
+
+
     
